@@ -1,6 +1,6 @@
 {
   "name": "webdataconnector",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Connect to web data from Tableau.",
   "engines": {
     "node": "16.x"
